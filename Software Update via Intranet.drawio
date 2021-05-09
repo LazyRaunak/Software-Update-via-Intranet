@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-09T09:32:51.416Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="U6SekXT5cARvMTDD7KV-" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-09T09:58:39.450Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="7lQEJjhAIq-AGGd7BlrQ" version="14.6.11" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1384" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -7,11 +7,11 @@
         <mxCell id="jQDINDvvrDZbcHtMQMTa-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.032;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=19;" edge="1" parent="1" source="jQDINDvvrDZbcHtMQMTa-59" target="jQDINDvvrDZbcHtMQMTa-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jQDINDvvrDZbcHtMQMTa-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=19;" edge="1" parent="1" source="jQDINDvvrDZbcHtMQMTa-59" target="jQDINDvvrDZbcHtMQMTa-65">
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="jQDINDvvrDZbcHtMQMTa-59" target="jQDINDvvrDZbcHtMQMTa-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jQDINDvvrDZbcHtMQMTa-59" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="304" y="1361" width="230" height="218" as="geometry" />
+          <mxGeometry x="304" y="1361" width="230" height="219" as="geometry" />
         </mxCell>
         <mxCell id="jQDINDvvrDZbcHtMQMTa-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -115,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jQDINDvvrDZbcHtMQMTa-30" value="&lt;div style=&quot;font-size: 17px&quot;&gt;&lt;ul&gt;&lt;li&gt;Internet Information Services (IIS) -&amp;nbsp; to run the software update point.&lt;/li&gt;&lt;li&gt;Windows Server Update Services (WSUS) - for software updates synchronization and for the software updates applicability scan on clients&lt;/li&gt;&lt;li&gt;The Windows Update Agent (WUA) client - to connect to the WSUS server&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="160" y="740" width="520" height="230" as="geometry" />
+          <mxGeometry x="145" y="740" width="550" height="230" as="geometry" />
         </mxCell>
         <mxCell id="jQDINDvvrDZbcHtMQMTa-31" value="Connect to software update points" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="325" y="1130" width="190" height="17" as="geometry" />
@@ -147,11 +147,32 @@
         <mxCell id="jQDINDvvrDZbcHtMQMTa-62" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Retries at its scheduled time&lt;/li&gt;&lt;li&gt;Can be manually run from the control panel on the client&lt;/li&gt;&lt;li&gt;Can be manually run from the Configuration Manager console via a client notification action&lt;/li&gt;&lt;li&gt;Can be run from a Configuration Manager SDK method&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="620" y="1359" width="310" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="jQDINDvvrDZbcHtMQMTa-65" value="Automatic/Manual download of software update deployment packages" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;align=center;" vertex="1" parent="1">
-          <mxGeometry x="259" y="1679" width="320" height="70" as="geometry" />
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="jQDINDvvrDZbcHtMQMTa-65" target="jQDINDvvrDZbcHtMQMTa-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jQDINDvvrDZbcHtMQMTa-68" value="Scan&lt;br&gt;succeeds" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1623" width="40" height="20" as="geometry" />
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-65" value="Automatic/Manual download of software update deployment packages" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1880" width="320" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="jQDINDvvrDZbcHtMQMTa-71" target="jQDINDvvrDZbcHtMQMTa-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-71" value="&lt;p style=&quot;line-height: 0%&quot;&gt;&amp;nbsp; &amp;nbsp; Deploy software updates&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Manual deployment&lt;/li&gt;&lt;li&gt;Automatic deployment&lt;/li&gt;&lt;li&gt;Phased deployment&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;align=left;" vertex="1" parent="1">
+          <mxGeometry x="295.5" y="2031" width="251" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="jQDINDvvrDZbcHtMQMTa-73" target="jQDINDvvrDZbcHtMQMTa-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-73" value="Scan to verify that the software update is still required" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1730" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="jQDINDvvrDZbcHtMQMTa-81" target="jQDINDvvrDZbcHtMQMTa-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-81" value="Software Updates Client Agent starts a scan to verify that the software updates are no longer required" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;align=center;" vertex="1" parent="1">
+          <mxGeometry x="245" y="2260" width="350" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-83" value="If system restart for the software update installation to finish, the Software Updates Client Agent starts a scan after the restart to verify that the software update is no longer required and creates a state message that states that the software update is installed." style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;align=center;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2450" width="540" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
