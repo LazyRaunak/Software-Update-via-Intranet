@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2021-05-09T07:06:28.258Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="xrcUgOYy_IU1oHnqcPR1" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-09T08:51:26.454Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="hoDFf8b063OuMAfcuKtG" version="14.6.11" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1384" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.032;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=19;" edge="1" parent="1" source="jQDINDvvrDZbcHtMQMTa-59" target="jQDINDvvrDZbcHtMQMTa-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-59" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="424" y="1092" width="230" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="539" y="988" as="sourcePoint" />
+            <mxPoint x="539" y="1093" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="jQDINDvvrDZbcHtMQMTa-32" target="jQDINDvvrDZbcHtMQMTa-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-32" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="425" y="758" width="230" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="jQDINDvvrDZbcHtMQMTa-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="490" width="830" height="110" as="geometry" />
         </mxCell>
@@ -87,6 +105,44 @@
             <mxPoint x="320" y="490" as="sourcePoint" />
             <mxPoint x="535" y="205.6350000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="jQDINDvvrDZbcHtMQMTa-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="539" y="758" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="658" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-31" value="Connect to software update points" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="445" y="861" width="190" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-33" value="Start" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="524" y="665" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-37" value="Scan for latest software updates" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1193" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-42" value="Connected" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="569" y="1038" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="820" y="843" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-44" value="Connect to different software update points" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="830" y="865" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-55" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 19px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Fails/&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 19px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 19px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Unavailable&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=19;align=center;" vertex="1" parent="1">
+          <mxGeometry x="670" y="846" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-60" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;align=center;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1080" width="310" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-61" value="Fails" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jQDINDvvrDZbcHtMQMTa-62" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Retries at its scheduled time&lt;/li&gt;&lt;li&gt;Can be manually run from the control panel on the client&lt;/li&gt;&lt;li&gt;Can be manually run from the Configuration Manager console via a client notification action&lt;/li&gt;&lt;li&gt;Can be run from a Configuration Manager SDK method&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1090" width="310" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
